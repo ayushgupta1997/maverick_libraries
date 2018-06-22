@@ -22,7 +22,7 @@ int maxsubarraySum(int arr[], int n) { // this method will not work when all ele
     return max_so_far;
 }
 
-int maxsubarraySum2(int arr[], int n) {
+int maxsubarraySum2(int arr[], int n) { //this method will when the array contains all elements as well in other cases too.
     int curr_max = arr[0];
     int max_so_far = arr[0];
     for (int i = 1; i<n; i++) {
