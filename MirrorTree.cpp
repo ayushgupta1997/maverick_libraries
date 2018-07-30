@@ -1,4 +1,6 @@
-/*Time Complexity : O(n)
+/*  Algorithm : Recursive Traversal
+    Alternative: We can also use iterative inorder traversal to store the nodes in stack and then traverse them in O(N) time 
+    Time Complexity : O(n)
 */
 #include <bits/stdc++.h>
 using namespace std;
