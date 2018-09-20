@@ -4,6 +4,8 @@
   Modified On : [2018-09-20 22:06]	
   Time Complexity : O(n2)
   Algorithm :  We maintain two subarray, sorted and unsorted
+  -->Inplace, coz it doesn't require any extra space
+  -->UNStable, coz it is 
   
  */
 
