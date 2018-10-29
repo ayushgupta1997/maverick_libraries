@@ -31,7 +31,7 @@ typedef long long int ll;
 typedef pair<ll, ll> pii;
 typedef vector<ll> vi;
 typedef double ld;
-
+// main function
 int main()  {
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
